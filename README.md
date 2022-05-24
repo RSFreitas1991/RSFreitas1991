@@ -1,7 +1,7 @@
 Hi 👋 My name is Raphael Freitas!
 =================================
 
-Full-Stack Web Developer Student
+Full-Stack Web Developer
 ------------------------
 
 * 🌍  I'm based Belo Horizonte City, State of Minas Gerais, Brazil.
