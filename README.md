@@ -1,4 +1,12 @@
-### Hi there 👋
+Hi 👋 My name is Raphael Freitas!
+=================================
+
+Full-Stack Web Developer Student
+------------------------
+
+* 🌍  I'm based in City of Belo Horizonte, State of Minas Gerais, Brazil.
+* ✉️  You can contact me at [raphael.freitasdev@gmail.com](mailto:raphael.freitasdev@gmail.com)
+* 📫  You can know more about me at: https://www.linkedin.com/in/raphael-freitasdev/
 
 <!--
 **RSFreitas1991/RSFreitas1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
